@@ -1,6 +1,5 @@
 ---
 title: "my resume"
-document title: "Resume"
 ---
 
 # Nitya Seth
