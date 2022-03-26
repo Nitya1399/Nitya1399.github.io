@@ -1,3 +1,11 @@
+---
+title: "my resume"
+---
+
+---
+% Document title: "Resume"
+---
+
 # Nitya Seth
 
 ### 204-551-5511 | sethn@myumanitoba.ca | github.com/Nitya1399
