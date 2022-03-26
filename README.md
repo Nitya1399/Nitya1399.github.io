@@ -13,12 +13,9 @@ Requirements for this project is a resume formatted in Markdown.
 
 ### Steps explaining hosting a resume in GitHub Pages using Etter's protocols
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. Create an account on _distributed version control tool_ like _GitHub_ as mentioned by Etter in his book.
+2. Create two files - index.md and config.yml to include the content of resume and foratting for it, respectively.
+3. Write the documentation such as README using _Markdown_ as mentioned by Etter in his book.
 
 ### Demo using an animated GIF
 
