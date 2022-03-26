@@ -1,6 +1,7 @@
 ---
 title: "my resume"
 document title: "Resume"
+label: "resume"
 ---
 
 # Nitya Seth
