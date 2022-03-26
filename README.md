@@ -20,12 +20,9 @@ Requirements for this project is a resume formatted in Markdown.
 5. 
 6. 
 
-### Demo of adding an animated GIF
+### Demo using an animated GIF
 
-1. 
-2. 
-3. 
-4. 
+
 
 ### More resources
 
